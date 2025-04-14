@@ -1,13 +1,18 @@
 High Cloud Airlines Analytics Project
+
 Overview 🚀
+
 The High Cloud Airlines Analytics Project is designed to analyze and visualize key performance metrics across various facets of airline operations. This project combines data from multiple sources, cleans and transforms it, and presents actionable insights through interactive dashboards. The goal is to drive data-driven decision-making and operational efficiency within the airline.
+
 
 Tools 🛠️
 Excel: Data cleaning, preliminary analysis, and basic visualizations.
 Power BI: Advanced dashboards, interactive reports, and data storytelling.
 Tableau (optional): Additional visualization and exploratory analysis.
 SQL: Data extraction, transformation, and loading (ETL).
+
 Workflow 🔄
+
 Data Collection & Integration
 
 Gathered data from various internal systems and external files.
@@ -33,7 +38,9 @@ Deployment & Maintenance
 
 Published the project on GitHub for version control and collaboration.
 Planned regular data updates and dashboard refreshes.
+
 Insights 📊
+
 Key insights and metrics derived from the analysis include:
 
 Number of Airlines: 110.85k
